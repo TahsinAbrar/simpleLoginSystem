@@ -20,12 +20,12 @@ application/views/login_view.php
 
 application/views/admin_logged_in.php
 
-** Header file **
+**Header file**
 
 application/views/include/header.php
 
 
-** Footer file **
+**Footer file**
 
 application/views/include/footer.php
 
@@ -41,6 +41,6 @@ Create 3 fields "user_id", "email_address" , "password" respectively.
 Insert a data into the user table and check the repo.
 
 
-** The html and css files are collected from codrops ( http://tympanus.net/codrops/ ) **
+**The html and css files are collected from codrops ( http://tympanus.net/codrops/ )**
 
 
